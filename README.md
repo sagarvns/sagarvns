@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarvns&label=Profile%20views&color=0e75b6&style=flat" alt="sagarvns" /> </p>
 
-- 🔭 Currently working as **Junior Frontend Developer at UTPL Technologies Pvt. Ltd.**
+- 🔭 Currently working as **Full Stack Developer at Zeitgeist Retail Pvt. Ltd. (ZRPL).**
 - 🌱 Building projects with **React.js, Node.js, Express, MongoDB (MERN Stack)**
 - 👨‍💻 All of my projects: [GitHub](https://github.com/sagarvns)
 - 💬 Ask me about **React.js, JavaScript (ES6+), Frontend, MERN Stack**
